@@ -26,7 +26,7 @@ Grupo de trabalho para realização dos desafios referentes ao curso Agentes Aut
 
 ## Configuração do Ambiente
 
-Antes de executar a aplicação, é necessário configurar o ambiente de desenvolvimento.
+Antes de executar a aplicação, é necessário entrar na pasta csv_agent e configurar o ambiente de desenvolvimento.
 
 ### 1\. Pré-requisitos
 
@@ -35,7 +35,7 @@ Antes de executar a aplicação, é necessário configurar o ambiente de desenvo
 
 ### 2\. Instalação das Dependências
 
-Clone este repositório e, na pasta raiz do projeto, instale todas as bibliotecas necessárias executando o seguinte comando no seu terminal:
+Clone este repositório e, na pasta csv_agent do projeto, instale todas as bibliotecas necessárias executando o seguinte comando no seu terminal:
 
 ```bash
 pip install -r requirements.txt
