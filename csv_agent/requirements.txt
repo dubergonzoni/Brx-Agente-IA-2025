@@ -1,0 +1,7 @@
+# 
+google-genai
+langgraph
+pandas
+streamlit
+python-dotenv
+duckdb
